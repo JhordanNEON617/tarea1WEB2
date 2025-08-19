@@ -1,6 +1,6 @@
 *{padding: 0px; margin: 0px; border: 0px;}
 body{
-    background-color: lightgreen;
+    background-color: rgb(6, 220, 6);
 }
 .caja1{
     background-color: yellow;
@@ -19,20 +19,20 @@ body{
     padding: 25px;
 }
 .nieto{
-    background-color: purple;
+    background-color: rgb(142, 7, 142);
     padding: 15px;
 }
 .bisnieto{
-    background-color: red;
+    background-color: rgb(225, 3, 3);
     padding: 10PX;
 }
 .superbisnieto{
-    background-color: rgb(255, 77, 0);
-    padding: 7px;
+    background-color: rgb(214, 65, 2);
+    padding: 8px;
 }
 .casihiper{
      background-color: blue;
-    padding: 5px;
+    padding: 4px;
 }
 .hiperbisnieto{
     background-color: white;
